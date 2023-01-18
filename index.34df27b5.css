@@ -96,6 +96,8 @@ body {
 }
 
 .nav {
+  max-width: 1300px;
+  margin: 0 auto;
   z-index: 2;
   padding-top: 30px;
   padding-bottom: 30px;
