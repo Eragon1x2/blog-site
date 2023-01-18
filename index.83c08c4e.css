@@ -97,10 +97,10 @@ body {
 
 .nav {
   z-index: 2;
+  justify-content: space-between;
   padding-top: 30px;
   padding-bottom: 30px;
   display: flex;
-  justify-content: space-between;
 }
 
 .nav_list {
@@ -124,7 +124,6 @@ body {
   font-size: 14px;
 }
 
-
 main {
   height: 600px;
 }
@@ -141,15 +140,15 @@ main {
 }
 
 .swiper-slide:first-child {
-  background: url("main_back.224eac67.jpg") 0 0 / 100% 100% no-repeat;
+  background: url("main_back.224eac67.5d551e07.jpg") 0 0 / 100% 100% no-repeat;
 }
 
 .swiper-slide:nth-child(2) {
-  background: url("main_back_2.5bde3141.jpg") 0 0 / 100% 100% no-repeat;
+  background: url("main_back_2.5bde3141.0d74e5a9.jpg") 0 0 / 100% 100% no-repeat;
 }
 
 .swiper-slide:last-child {
-  background: url("main_back_3.32d1e0de.jpg") 0 0 / 100% 100% no-repeat;
+  background: url("main_back_3.32d1e0de.b764cfa9.jpg") 0 0 / 100% 100% no-repeat;
 }
 
 .swiper-pagination {
@@ -323,7 +322,7 @@ main .container {
 
 .fashion {
   height: 698px;
-  background: url("fasion_back.abd2370e.jpg") 0 0 / 100% 100% no-repeat;
+  background: url("fasion_back.abd2370e.7de4d757.jpg") 0 0 / 100% 100% no-repeat;
   align-items: center;
   display: flex;
 }
@@ -408,7 +407,7 @@ main .container {
 .related-post .container ul li {
   width: 420px;
   height: 350px;
-  background: url("1.e55c35ca.jpg") 0 0 / 100% 100% no-repeat;
+  background: url("1.e55c35ca.c3e8ddf4.jpg") 0 0 / 100% 100% no-repeat;
   align-items: flex-end;
   margin-top: 7px;
   margin-left: 7px;
@@ -473,4 +472,4 @@ footer p, footer a {
   font-size: 14px;
 }
 
-/*# sourceMappingURL=index.34df27b5.css.map */
+/*# sourceMappingURL=index.83c08c4e.css.map */
