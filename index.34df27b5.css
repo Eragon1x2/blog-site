@@ -82,7 +82,7 @@ body {
 }
 
 @media (max-width: 1024px) {
-  .container, .nav {
+  .container .nav {
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -189,7 +189,7 @@ main {
 }
 
 .swiper-slide div p:not(last-child) {
-  margin-right: 0p;
+  margin-right: 0px;
 }
 
 .swiper-slide div {

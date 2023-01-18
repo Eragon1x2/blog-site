@@ -82,7 +82,7 @@ body {
 }
 
 @media (max-width: 1024px) {
-  .container, .nav {
+  .container .nav {
     padding-left: 10px;
     padding-right: 10px;
   }
