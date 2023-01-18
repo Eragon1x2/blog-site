@@ -102,7 +102,7 @@ body {
   display: flex;
 }
 
-.nav ul {
+.nav_list {
   display: flex;
   justify-content: space-between;
 }
@@ -114,11 +114,11 @@ body {
   font-weight: 700;
 }
 
-.nav ul li:not(last-child) {
+.nav_list li:not(last-child) {
   margin-left: 20px;
 }
 
-.nav ul li a {
+.nav_list li a {
   color: #e5e5e5;
   padding-bottom: 5px;
   font-size: 14px;
